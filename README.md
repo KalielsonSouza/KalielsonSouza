@@ -1,5 +1,5 @@
 <p align="center">
-<img src="pf.png" title="Image_Header">
+<img src="pf.jpg" title="Image_Header">
 </p>
 
 <!---
